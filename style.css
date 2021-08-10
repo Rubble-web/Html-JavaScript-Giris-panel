@@ -1,0 +1,14 @@
+.wrapper .title {
+  font-size: 29px;
+  font-weight: 100;
+  text-align: center;
+  line-height: 43px;
+  user-select: none;
+  border-radius: 10px 15px 0 0;
+}
+
+i.fa-eye {
+  position: absolute;
+  margin-top: 35px;
+  height: 100%;
+}
